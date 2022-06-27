@@ -1,6 +1,5 @@
 puts "Hello World!"
-puts "Hello World!"
-puts "Hello World!"
+puts ("Hello MOringa!")
 
 print "Hello world!"
 print "Hello world!"
